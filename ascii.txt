@@ -1,0 +1,14 @@
+|--folder
+|  |--file
+|  |--file2
+|--file
+|--folder3
+|  |--folder4
+|     |--file5
+|--test
+|  |--newtest
+|  |  |--testfile4
+|  |  |--testfile5
+|  |--testfile1
+|  |--testfile2
+|  |--testfile3
